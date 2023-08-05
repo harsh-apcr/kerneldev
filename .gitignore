@@ -1,0 +1,9 @@
+*.iso
+isodir
+sysroot
+binutils-2.40/
+build-binutils/
+build-gcc/
+gcc-10.4.0/
+gdb-5.2.1/
+
